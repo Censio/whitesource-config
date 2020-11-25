@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://raw.githubusercontent.com/Censio/whitesource-config/master/wss-unified-agent.config",
+    "configExternalURL": "https://raw.githubusercontent.com/Censio/whitesource-config/master/whitesource.config",
     "projectToken": "",
     "baseBranches": []
   },
