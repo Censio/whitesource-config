@@ -1,0 +1,8 @@
+{
+   migrationMode: {
+     "changeType": "deletion",
+     "openPR": true
+   },
+   "includeRepos": [],
+   "excludeRepos": []
+}
