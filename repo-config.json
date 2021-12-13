@@ -3,7 +3,8 @@
     "configMode": "EXTERNAL",
     "configExternalURL": "https://raw.githubusercontent.com/Censio/whitesource-config/master/whitesource.config",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableIaC": "true"
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
