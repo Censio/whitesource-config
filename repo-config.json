@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "EXTERNAL",
-    "configExternalURL": "https://raw.githubusercontent.com/Censio/whitesource-config/master/whitesource.config",
+    "configMode": "AUTO",
+    "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
     "enableIaC": "true"
