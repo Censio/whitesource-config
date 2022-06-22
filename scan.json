@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "Censio/mobile-api-sdk-ios",
+      "branchName": "main"
+      "uploadScannerLogs": true
+    }
+  ]
+}
